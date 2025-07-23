@@ -1,0 +1,66 @@
+# Employee Salary Prediction using Machine Learning
+
+This project uses **Linear Regression** to predict employee salaries based on various inputs like experience, test score, and interview score. The app is built using **Streamlit** and trained in **Jupyter Notebook**.
+
+---
+
+## 💡 Features
+
+* Predicts salary based on input values:
+
+  * Years of Experience
+  * Test Score
+  * Interview Score
+* Model trained using Linear Regression
+* Web app created using Streamlit
+* Clean UI for real-time salary predictions
+
+
+## 📊 Model Info
+
+* **Algorithm:** Linear Regression
+* **Metric Used:** R² Score, Mean Squared Error
+* **Toolkits:**
+
+  * scikit-learn
+  * pandas
+  * joblib
+
+---
+
+## ✅ Example Inputs
+
+| Experience | Test Score | Interview Score | Predicted Salary |
+| ---------- | ---------- | --------------- | ---------------- |
+| 0          | 3          | 40              | ₹34,942          |
+| 5          | 4          | 50              | ₹52,473          |
+| 10         | 5          | 45              | ₹82,731          |
+
+
+
+---
+
+## ✍️ Author
+
+* **Name:** Priyanshu Mishra
+* **Project Type:** Internship / Learning Purpose
+* **Deployment:** Streamlit local run
+
+---
+
+## 📦 Requirements 
+
+```
+streamlit
+scikit-learn
+pandas
+joblib
+```
+
+
+## 🔗 Links
+
+* [GitHub Repo](https://github.com/yourusername/employee-salary-prediction)
+* [Streamlit Docs](https://docs.streamlit.io)
+
+---
